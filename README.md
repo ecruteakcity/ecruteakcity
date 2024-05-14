@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ecruteakcity
-- 👀 I’m interested in rom hacking
+- 👀 I’m interested in Game Boy Color rom hacking
 - 🌱 I’m currently learning how to rom hack
-- 💞️ I’m looking to collaborate on rom hacking projects
+- 💞️ I’m looking to collaborate on Gen II Pokemon rom hacking projects
   
 <!---
 - 📫 How to reach me ...
